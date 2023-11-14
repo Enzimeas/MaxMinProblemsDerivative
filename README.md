@@ -1,6 +1,6 @@
 # MaxMinProblemsDerivative
 
-Programa feito com o intuito de resolver 3 problemas de Maximo e Minimo usando os nossos conhecimentos de Derivadas, para a materia de Calculo Diferencia e Integral da faculdade Centro Universitario Filadelfia - UniFil , professora Tania Camila.
+Programa feito com o intuito de resolver 3 problemas de Maximo e Minimo usando os nossos conhecimentos de Derivadas, para a materia de Calculo Diferencial e Integral da faculdade Centro Universitario Filadelfia - UniFil , professora Tania Camila.
 
 
 # Para rodar o programa siga os seguintes passos:
