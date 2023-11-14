@@ -13,6 +13,6 @@ Programa feito com o intuito de resolver 3 problemas de Maximo e Minimo usando o
 3 - Clone esse repositorio em seu Sistema
 
 4 - Entre no diretorio que o programa se situa e digite
-  <br>python max.py   ou   python3 max.py
+  <br>python maxmin.py   ou   python3 maxmin.py
 
   
